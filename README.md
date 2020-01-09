@@ -1,6 +1,6 @@
 # Curso "The MERN (MongoDB,Express,React,NodeJS) Fullstack Guide"
 
-One Paragraph of project description goes here
+[Link para o curso na Udemy](https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/)
 
 ## Getting Started
 
